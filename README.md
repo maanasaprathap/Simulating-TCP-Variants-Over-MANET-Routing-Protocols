@@ -1,10 +1,7 @@
 # Simulating-TCP-Variants-over-MANET-Routing-Protocols
 
 Repository for final submission of project work done as a part of Networks course. 
-# Group Members
-- HEMANTH N
-- RAMYAA P
-- SUDHARSAN GV
+
 
 ## Basic Idea
 In our comparison model, we simulated the wireless net-work topology for 50nodes and we have analyzed the results carefully which indicate DSDV achieves least End to End Delay while used with any TCP variant, and that AODV with Vegas, DSDV with Reno perform well on respective parameters.  
